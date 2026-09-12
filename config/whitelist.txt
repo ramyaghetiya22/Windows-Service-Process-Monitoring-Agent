@@ -1,0 +1,6 @@
+explorer.exe
+svchost.exe
+chrome.exe
+msedge.exe
+code.exe
+python.exe

@@ -1,0 +1,118 @@
+===== WINDOWS MONITORING SECURITY REPORT =====
+Generated On: 2026-09-12 14:36:32.210493
+==================================================
+
+ALERT: Unknown process: system idle process | PID: 0 | Path: None | Severity: MEDIUM
+ALERT: Unknown process: system | PID: 4 | Path:  | Severity: MEDIUM
+ALERT: Unknown process: lsass.exe | PID: 8 | Path: C:\Windows\System32\lsass.exe | Severity: MEDIUM
+ALERT: Unknown process: registry | PID: 128 | Path: Registry | Severity: MEDIUM
+ALERT: Unknown process: smss.exe | PID: 568 | Path: C:\Windows\System32\smss.exe | Severity: MEDIUM
+ALERT: Unknown process: services.exe | PID: 668 | Path: C:\Windows\System32\services.exe | Severity: MEDIUM
+ALERT: Unknown process: csrss.exe | PID: 876 | Path: C:\Windows\System32\csrss.exe | Severity: MEDIUM
+ALERT: Unknown process: wininit.exe | PID: 956 | Path: C:\Windows\System32\wininit.exe | Severity: MEDIUM
+ALERT: Unknown process: csrss.exe | PID: 976 | Path: C:\Windows\System32\csrss.exe | Severity: MEDIUM
+ALERT: Unknown process: crossdeviceservice.exe | PID: 1080 | Path: C:\Program Files\WindowsApps\MicrosoftWindows.CrossDevice_1.26052.99.0_x64__cw5n1h2txyewy\CrossDeviceService.exe | Severity: MEDIUM
+ALERT: Unknown process: jucheck.exe | PID: 1116 | Path: C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe | Severity: MEDIUM
+ALERT: Unknown process: wudfhost.exe | PID: 1176 | Path: C:\Windows\System32\WUDFHost.exe | Severity: MEDIUM
+ALERT: Unknown process: fontdrvhost.exe | PID: 1192 | Path: C:\Windows\System32\fontdrvhost.exe | Severity: MEDIUM
+ALERT: Unknown process: intelcphdcpsvc.exe | PID: 1748 | Path: C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_9b53505f87f3498b\IntelCpHDCPSvc.exe | Severity: MEDIUM
+ALERT: Unknown process: m365copilot.exe | PID: 1972 | Path: C:\Program Files\WindowsApps\Microsoft.MicrosoftOfficeHub_19.2607.58021.0_x64__8wekyb3d8bbwe\M365Copilot.exe | Severity: MEDIUM
+ALERT: Unknown process: intelcphecisvc.exe | PID: 1984 | Path: C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_9b53505f87f3498b\IntelCpHeciSvc.exe | Severity: MEDIUM
+ALERT: Unknown process: igfxcuiservice.exe | PID: 2144 | Path: C:\Windows\System32\DriverStore\FileRepository\cui_dch.inf_amd64_cb841b7c497d4503\igfxCUIService.exe | Severity: MEDIUM
+ALERT: Unknown process: codesetup-stable-645f29cc3176500b4b5762ba887cf2a7f0ffdf2c.exe | PID: 2372 | Path: C:\Users\Admin\AppData\Local\Temp\vscode-stable-user-x64\CodeSetup-stable-645f29cc3176500b4b5762ba887cf2a7f0ffdf2c.exe | Severity: MEDIUM
+ALERT: Unknown process: diagscap.exe | PID: 2524 | Path: C:\Windows\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_166246cb8bd387ff\x64\DiagsCap.exe | Severity: MEDIUM
+ALERT: Unknown process: apphelpercap.exe | PID: 2532 | Path: C:\Windows\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_166246cb8bd387ff\x64\AppHelperCap.exe | Severity: MEDIUM
+ALERT: Unknown process: networkcap.exe | PID: 2548 | Path: C:\Windows\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_166246cb8bd387ff\x64\NetworkCap.exe | Severity: MEDIUM
+ALERT: Unknown process: touchpointanalyticsclientservice.exe | PID: 2564 | Path: C:\Windows\System32\DriverStore\FileRepository\hpanalyticscomp.inf_amd64_ef460d1f2a35fc16\x64\TouchpointAnalyticsClientService.exe | Severity: MEDIUM
+ALERT: Unknown process: memcompression | PID: 2576 | Path: MemCompression | Severity: MEDIUM
+ALERT: Unknown process: igfxem.exe | PID: 2604 | Path: C:\Windows\System32\DriverStore\FileRepository\cui_dch.inf_amd64_cb841b7c497d4503\igfxEM.exe | Severity: MEDIUM
+ALERT: Unknown process: msedgewebview2.exe | PID: 2704 | Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.66\msedgewebview2.exe | Severity: MEDIUM
+ALERT: Unknown process: searchindexer.exe | PID: 2916 | Path: C:\Windows\System32\SearchIndexer.exe | Severity: MEDIUM
+ALERT: Unknown process: mpdefendercoreservice.exe | PID: 3192 | Path: C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26080.3-0\MpDefenderCoreService.exe | Severity: MEDIUM
+ALERT: Unknown process: etdctrl.exe | PID: 3256 | Path: C:\Windows\System32\ETDCtrl.exe | Severity: MEDIUM
+ALERT: Unknown process: dwm.exe | PID: 3260 | Path: C:\Windows\System32\dwm.exe | Severity: MEDIUM
+ALERT: Unknown process: ctfmon.exe | PID: 3364 | Path: C:\Windows\System32\ctfmon.exe | Severity: MEDIUM
+ALERT: Unknown process: sysinfocap.exe | PID: 3432 | Path: C:\Windows\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_166246cb8bd387ff\x64\SysInfoCap.exe | Severity: MEDIUM
+ALERT: Unknown process: spoolsv.exe | PID: 3552 | Path: C:\Windows\System32\spoolsv.exe | Severity: MEDIUM
+ALERT: Unknown process: securityhealthsystray.exe | PID: 4188 | Path: C:\Windows\System32\SecurityHealthSystray.exe | Severity: MEDIUM
+ALERT: Unknown process: etdservice.exe | PID: 4480 | Path: C:\Windows\System32\ETDService.exe | Severity: MEDIUM
+ALERT: Unknown process: oneapp.igcc.winservice.exe | PID: 4580 | Path: C:\Windows\System32\DriverStore\FileRepository\igcc_dch.inf_amd64_f94b71985382657d\OneApp.IGCC.WinService.exe | Severity: MEDIUM
+ALERT: Unknown process: officeclicktorun.exe | PID: 4616 | Path: C:\Program Files\Common Files\microsoft shared\ClickToRun\OfficeClickToRun.exe | Severity: MEDIUM
+ALERT: Unknown process: taskhostw.exe | PID: 4680 | Path: C:\Windows\System32\taskhostw.exe | Severity: MEDIUM
+ALERT: Unknown process: mongod.exe | PID: 4688 | Path: C:\Program Files\MongoDB\Server\4.4\bin\mongod.exe | Severity: MEDIUM
+ALERT: Unknown process: lms.exe | PID: 4752 | Path: C:\Windows\System32\DriverStore\FileRepository\lms.inf_amd64_a55aa2cd52a3429d\LMS.exe | Severity: MEDIUM
+ALERT: Unknown process: rstmwservice.exe | PID: 4768 | Path: C:\Windows\System32\DriverStore\FileRepository\iastorac.inf_amd64_42f9d9bfb72d84cf\RstMwService.exe | Severity: MEDIUM
+ALERT: Unknown process: rtkauduservice64.exe | PID: 4776 | Path: C:\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_97f3cd9b850501f1\RtkAudUService64.exe | Severity: MEDIUM
+ALERT: Unknown process: rtkbtmanserv.exe | PID: 4836 | Path: C:\Windows\RtkBtManServ.exe | Severity: MEDIUM
+ALERT: Unknown process: mysqld.exe | PID: 4852 | Path: C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe | Severity: MEDIUM
+ALERT: Unknown process: secomn64.exe | PID: 4860 | Path: C:\Windows\System32\SECOMN64.exe | Severity: MEDIUM
+ALERT: Unknown process: esif_uf.exe | PID: 4964 | Path: C:\Windows\System32\DriverStore\FileRepository\dptf_cpu.inf_amd64_9196e89091d8bdbb\esif_uf.exe | Severity: MEDIUM
+ALERT: Unknown process: jhi_service.exe | PID: 5008 | Path: C:\Windows\System32\DriverStore\FileRepository\dal.inf_amd64_ffc75848a6342fdf\jhi_service.exe | Severity: MEDIUM
+ALERT: Unknown process: xtuservice.exe | PID: 5064 | Path: C:\Windows\SysWOW64\XtuService.exe | Severity: MEDIUM
+ALERT: Unknown process: mysqld.exe | PID: 5756 | Path: C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe | Severity: MEDIUM
+ALERT: Unknown process: msedgewebview2.exe | PID: 5800 | Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.66\msedgewebview2.exe | Severity: MEDIUM
+ALERT: Unknown process: conhost.exe | PID: 5836 | Path: C:\Windows\System32\conhost.exe | Severity: MEDIUM
+ALERT: Unknown process: msedgewebview2.exe | PID: 5948 | Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.66\msedgewebview2.exe | Severity: MEDIUM
+ALERT: Unknown process: backgroundtaskhost.exe | PID: 6492 | Path: C:\Windows\System32\backgroundTaskHost.exe | Severity: MEDIUM
+ALERT: Unknown process: unsecapp.exe | PID: 6720 | Path: C:\Windows\System32\wbem\unsecapp.exe | Severity: MEDIUM
+ALERT: Unknown process: onedrive.exe | PID: 6796 | Path: C:\Users\Admin\AppData\Local\Microsoft\OneDrive\OneDrive.exe | Severity: MEDIUM
+ALERT: Unknown process: microsoftstartfeedprovider.exe | PID: 6824 | Path: C:\Program Files\WindowsApps\Microsoft.StartExperiencesApp_1.336.0.0_x64__8wekyb3d8bbwe\MicrosoftStartFeedProvider\MicrosoftStartFeedProvider.exe | Severity: MEDIUM
+ALERT: Unknown process: systemsettings.exe | PID: 6908 | Path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe | Severity: MEDIUM
+ALERT: Unknown process: msedgewebview2.exe | PID: 6928 | Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.66\msedgewebview2.exe | Severity: MEDIUM
+ALERT: Unknown process: wmiprvse.exe | PID: 6932 | Path: C:\Windows\System32\wbem\WmiPrvSE.exe | Severity: MEDIUM
+ALERT: Unknown process: conhost.exe | PID: 6984 | Path: C:\Windows\System32\conhost.exe | Severity: MEDIUM
+ALERT: Unknown process: aggregatorhost.exe | PID: 7064 | Path: C:\Windows\System32\AggregatorHost.exe | Severity: MEDIUM
+ALERT: Unknown process: sysinfocap.exe | PID: 7132 | Path: C:\Windows\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_166246cb8bd387ff\x64\SysInfoCap.exe | Severity: MEDIUM
+ALERT: Unknown process: fontdrvhost.exe | PID: 7692 | Path: C:\Windows\System32\fontdrvhost.exe | Severity: MEDIUM
+ALERT: Unknown process: msedgewebview2.exe | PID: 7836 | Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.66\msedgewebview2.exe | Severity: MEDIUM
+ALERT: Unknown process: nissrv.exe | PID: 8264 | Path: C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26080.3-0\NisSrv.exe | Severity: MEDIUM
+ALERT: Unknown process: msedgewebview2.exe | PID: 8672 | Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.66\msedgewebview2.exe | Severity: MEDIUM
+ALERT: Unknown process: msedgewebview2.exe | PID: 9020 | Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.66\msedgewebview2.exe | Severity: MEDIUM
+ALERT: Unknown process: msedgewebview2.exe | PID: 9756 | Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.66\msedgewebview2.exe | Severity: MEDIUM
+ALERT: Unknown process: dllhost.exe | PID: 9880 | Path: C:\Windows\System32\dllhost.exe | Severity: MEDIUM
+ALERT: Unknown process: wmiprvse.exe | PID: 9888 | Path: C:\Windows\System32\wbem\WmiPrvSE.exe | Severity: MEDIUM
+ALERT: Unknown process: startmenuexperiencehost.exe | PID: 10032 | Path: C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe | Severity: MEDIUM
+ALERT: Unknown process: msedgewebview2.exe | PID: 10288 | Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.66\msedgewebview2.exe | Severity: MEDIUM
+ALERT: Unknown process: runtimebroker.exe | PID: 11260 | Path: C:\Windows\System32\RuntimeBroker.exe | Severity: MEDIUM
+ALERT: Unknown process: msedgewebview2.exe | PID: 11532 | Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.66\msedgewebview2.exe | Severity: MEDIUM
+ALERT: Unknown process: widgetservice.exe | PID: 11596 | Path: C:\Program Files\WindowsApps\Microsoft.WidgetsPlatformRuntime_1.6.19.0_x64__8wekyb3d8bbwe\WidgetService\WidgetService.exe | Severity: MEDIUM
+ALERT: Unknown process: armsvc.exe | PID: 11796 | Path: C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\armsvc.exe | Severity: MEDIUM
+ALERT: Unknown process: shellexperiencehost.exe | PID: 11916 | Path: C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe | Severity: MEDIUM
+ALERT: Unknown process: runtimebroker.exe | PID: 12012 | Path: C:\Windows\System32\RuntimeBroker.exe | Severity: MEDIUM
+ALERT: Unknown process: useroobebroker.exe | PID: 12052 | Path: C:\Windows\System32\oobe\UserOOBEBroker.exe | Severity: MEDIUM
+ALERT: Unknown process: powershell.exe | PID: 12108 | Path: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe | Severity: MEDIUM
+ALERT: Unknown process: msedgewebview2.exe | PID: 12228 | Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.66\msedgewebview2.exe | Severity: MEDIUM
+ALERT: Unknown process: msedgewebview2.exe | PID: 12264 | Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.66\msedgewebview2.exe | Severity: MEDIUM
+ALERT: Unknown process: sihost.exe | PID: 12628 | Path: C:\Windows\System32\sihost.exe | Severity: MEDIUM
+ALERT: Unknown process: securityhealthservice.exe | PID: 12724 | Path: C:\Windows\System32\SecurityHealthService.exe | Severity: MEDIUM
+ALERT: Unknown process: msedgewebview2.exe | PID: 13012 | Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.66\msedgewebview2.exe | Severity: MEDIUM
+ALERT: Unknown process: codesetup-stable-645f29cc3176500b4b5762ba887cf2a7f0ffdf2c.tmp | PID: 13024 | Path: C:\Users\Admin\AppData\Local\Temp\is-MDHSS.tmp\CodeSetup-stable-645f29cc3176500b4b5762ba887cf2a7f0ffdf2c.tmp | Severity: MEDIUM
+ALERT: Unknown process: conhost.exe | PID: 13028 | Path: C:\Windows\System32\conhost.exe | Severity: MEDIUM
+ALERT: Unknown process: msedgewebview2.exe | PID: 13340 | Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.66\msedgewebview2.exe | Severity: MEDIUM
+ALERT: Unknown process: crossdeviceresume.exe | PID: 13652 | Path: C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\CrossDeviceResume.exe | Severity: MEDIUM
+ALERT: Unknown process: shellhost.exe | PID: 14348 | Path: C:\Windows\System32\ShellHost.exe | Severity: MEDIUM
+ALERT: Unknown process: msedgewebview2.exe | PID: 14708 | Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.66\msedgewebview2.exe | Severity: MEDIUM
+ALERT: Unknown process: msmpeng.exe | PID: 15336 | Path: C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26080.3-0\MsMpEng.exe | Severity: MEDIUM
+ALERT: Unknown process: msedgewebview2.exe | PID: 15372 | Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.66\msedgewebview2.exe | Severity: MEDIUM
+ALERT: Unknown process: openconsole.exe | PID: 15568 | Path: C:\Users\Admin\AppData\Local\Programs\Microsoft VS Code\88e44fa0e0\resources\app\node_modules.asar.unpacked\node-pty\build\Release\conpty\OpenConsole.exe | Severity: MEDIUM
+ALERT: Unknown process: onedrive.sync.service.exe | PID: 15780 | Path: C:\Users\Admin\AppData\Local\Microsoft\OneDrive\26.158.0816.0003\OneDrive.Sync.Service.exe | Severity: MEDIUM
+ALERT: Unknown process: runtimebroker.exe | PID: 15952 | Path: C:\Windows\System32\RuntimeBroker.exe | Severity: MEDIUM
+ALERT: Unknown process: pet.exe | PID: 15972 | Path: C:\Users\Admin\.vscode\extensions\ms-python.vscode-python-envs-1.36.0-win32-x64\python-env-tools\bin\pet.exe | Severity: MEDIUM
+ALERT: Unknown process: secocl64.exe | PID: 16332 | Path: C:\Windows\System32\SECOCL64.exe | Severity: MEDIUM
+ALERT: Unknown process: runtimebroker.exe | PID: 16408 | Path: C:\Windows\System32\RuntimeBroker.exe | Severity: MEDIUM
+ALERT: Unknown process: msedgewebview2.exe | PID: 16792 | Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.66\msedgewebview2.exe | Severity: MEDIUM
+ALERT: Unknown process: runtimebroker.exe | PID: 16924 | Path: C:\Windows\System32\RuntimeBroker.exe | Severity: MEDIUM
+ALERT: Unknown process: rtkauduservice64.exe | PID: 17104 | Path: C:\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_97f3cd9b850501f1\RtkAudUService64.exe | Severity: MEDIUM
+ALERT: Unknown process: runtimebroker.exe | PID: 17404 | Path: C:\Windows\System32\RuntimeBroker.exe | Severity: MEDIUM
+ALERT: Unknown process: searchhost.exe | PID: 17788 | Path: C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe | Severity: MEDIUM
+ALERT: Unknown process: widgets.exe | PID: 17888 | Path: C:\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_526.17301.40.0_x64__cw5n1h2txyewy\Dashboard\Widgets.exe | Severity: MEDIUM
+ALERT: Unknown process: winlogon.exe | PID: 17948 | Path: C:\Windows\System32\winlogon.exe | Severity: MEDIUM
+ALERT: Unknown process: openconsole.exe | PID: 19696 | Path: C:\Users\Admin\AppData\Local\Programs\Microsoft VS Code\88e44fa0e0\resources\app\node_modules.asar.unpacked\node-pty\build\Release\conpty\OpenConsole.exe | Severity: MEDIUM
+ALERT: Unknown process: powershell.exe | PID: 19708 | Path: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe | Severity: MEDIUM
+ALERT: Unknown process: msedgewebview2.exe | PID: 19724 | Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.66\msedgewebview2.exe | Severity: MEDIUM
+ALERT: Unknown process: taskhostw.exe | PID: 19996 | Path: C:\Windows\System32\taskhostw.exe | Severity: MEDIUM
+ALERT: Unknown process: wlanext.exe | PID: 20164 | Path: C:\Windows\System32\wlanext.exe | Severity: MEDIUM
+ALERT: Unknown process: runtimebroker.exe | PID: 20748 | Path: C:\Windows\System32\RuntimeBroker.exe | Severity: MEDIUM
+ALERT: Unknown process: applicationframehost.exe | PID: 20828 | Path: C:\Windows\System32\ApplicationFrameHost.exe | Severity: MEDIUM
+ALERT: Unknown process: jusched.exe | PID: 21124 | Path: C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe | Severity: MEDIUM
+ALERT: Unknown process: filecoauth.exe | PID: 21176 | Path: C:\Users\Admin\AppData\Local\Microsoft\OneDrive\26.158.0816.0003\FileCoAuth.exe | Severity: MEDIUM

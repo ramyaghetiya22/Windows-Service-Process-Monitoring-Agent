@@ -1,0 +1,6 @@
+===== WINDOWS MONITORING SECURITY REPORT =====
+Generated On: 2026-08-22 11:14:07.210819
+==================================================
+
+ALERT: Suspicious service path detected
+ALERT: Unknown process detected
